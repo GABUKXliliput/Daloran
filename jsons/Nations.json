@@ -1,0 +1,29 @@
+[
+{
+		"name": "Uhlohadi knizectvi",
+		"leaderName": "Jaren Kopáč II",
+		"adjective": ["Uhlohadští"],
+		"startBias": ["Hill"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "Jsme strážci Západních hor, obyvatelé starých Daloranských pevností dokud naše pochodně hoří a krumpáče zvoní o kámen nic není ztraceno",
+		"startIntroPart2": "Jarene nenech nás na pospas Imperiální nadvládě a útlaku Štířanů. Uhlí je věčné",
+
+		"declaringWar": "Poznej ten žár na vlastní kůži",
+		"attacked": "Strkáš ruku do výhně přítely",
+		"defeated": "Uhlí nemůže být zničeno vždy se najde další a založí větší požár",
+		"introduction": "Zdravím nechceš pečenou bramboru?",
+
+		"neutralHello": "Zdar",
+		"hateHello": "Shoř",
+
+		"tradeRequest": "Za mě dobrý,ne?",
+
+		"outerColor": [12, 242, 73],
+		"innerColor": [1,1,1],
+		"uniqueName": "Výheň Západu",
+		"uniques": ["No movement cost to pillage <before the [Industrial era]>","Double quantity of [Coal] produced","[+3 Production] from every [Coal]"]
+		"cities": ["Hadov","Horská Brána","Výheň","Východní Brána","Thůrská država","Hamerin","Štěrov","Jarenův Dvůr","Čortí pole","Uhelná Brázda"]
+	},
+
+]
