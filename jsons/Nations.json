@@ -22,7 +22,7 @@
 		"outerColor": [12, 242, 73],
 		"innerColor": [1,1,1],
 		"uniqueName": "Výheň Západu",
-		"uniques": ["No movement cost to pillage <before the [Industrial era]>","Double quantity of [Coal] produced","[+3 Production] from every [Coal]","[+2 Production] from every [Iron]"]
+		"uniques": ["No movement cost to pillage <before the [Industrial era]>","Double quantity of [Coal] produced","[+3 Production] from every [Coal]","[+2 Production] from every [Iron]","[+2 Production] from every [Mountain]"]
 		"cities": ["Hadov","Horská Brána","Výheň","Východní Brána","Thůrská država","Hamerin","Štěrov","Jarenův Dvůr","Čortí pole","Uhelná Brázda"]
 	},
 
