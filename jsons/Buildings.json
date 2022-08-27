@@ -1,0 +1,16 @@
+[
+{
+		"name": "skola sermu",
+		"hurryCostModifier": 30,
+                "uniqueTo": "Telek",
+		"maintenance": 3,
+		"uniques": ["New [Sword] units start with [30] Experience [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Iron Working"
+	},{
+		"name": "prastara pevnost",
+                "uniqueTo": "Uhlohadi knizectvi",
+		"cityStrength": 3,
+		"cityHealth": 15,
+                 "uniques": ["Unbuildable","Limited to [5] per Civilization"],
+		},
+]
