@@ -1,0 +1,55 @@
+
+game.png
+size: 2048, 256
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/prastara pevnost
+  rotate: false
+  xy: 4, 14
+  size: 213, 200
+  orig: 213, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/skola sermu
+  rotate: false
+  xy: 641, 14
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Telek
+  rotate: false
+  xy: 1173, 114
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Uhlohadi knizectvi
+  rotate: false
+  xy: 1057, 114
+  size: 108, 100
+  orig: 108, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Duelista
+  rotate: false
+  xy: 225, 4
+  size: 200, 210
+  orig: 200, 210
+  offset: 0, 0
+  index: -1
+UnitIcons/Horska straz
+  rotate: false
+  xy: 433, 14
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/zapalna kuse
+  rotate: false
+  xy: 849, 14
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1

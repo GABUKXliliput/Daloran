@@ -1,0 +1,54 @@
+[
+{
+		"name": "Uhlohadi knizectvi",
+		"leaderName": "Jaren Kopáč II",
+		"adjective": ["Uhlohadští"],
+		"startBias": ["Hill"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "Jsme strážci Západních hor, obyvatelé starých Daloranských pevností dokud naše pochodně hoří a krumpáče zvoní o kámen nic není ztraceno",
+		"startIntroPart2": "Jarene nenech nás na pospas Imperiální nadvládě a útlaku Štířanů. Uhlí je věčné",
+
+		"declaringWar": "Poznej ten žár na vlastní kůži",
+		"attacked": "Strkáš ruku do výhně přítely",
+		"defeated": "Uhlí nemůže být zničeno vždy se najde další a založí větší požár",
+		"introduction": "Zdravím nechceš pečenou bramboru?",
+
+		"neutralHello": "Zdar",
+		"hateHello": "Shoř",
+
+		"tradeRequest": "Za mě dobrý,ne?",
+
+		"outerColor": [12, 242, 73],
+		"innerColor": [1,1,1],
+		"uniqueName": "Výheň Západu",
+		"uniques": ["No movement cost to pillage <before the [Industrial era]>","Double quantity of [Coal] produced","[+3 Production] from every [Coal]","[+2 Production] from every [Iron]","[+2 Production] from every [Mountain]"]
+		"cities": ["Hadov","Horská Brána","Výheň","Východní Brána","Thůrská država","Hamerin","Štěrov","Jarenův Dvůr","Čortí pole","Uhelná Brázda"]
+	},{
+		"name": "Telek",
+		"leaderName": "Sir Diplomat Velsmistr Jean",
+		"adjective": ["Telečtí"],
+		"startBias": ["Coast"],
+		"preferredVictoryType":"Cultural",
+
+		"startIntroPart1": "Ve jménu etikety a výdělku ukážeme světu krásu našeho města.",
+		"startIntroPart2": "Nenechme je pošlapat naše zahrady",
+
+		"declaringWar": "Pošpinil jsi naší čest. Hned co dopiji můj čaj vyzívám tě na duel!",
+		"attacked": "To je v rozporu se slušností naši spojenci ti dají co proto",
+		"defeated": "Ach ne",
+		"introduction": "Vítej v Teleku poutníku. Přijmi prosím mé pozvání na čaj o páté.",
+
+		"neutralHello": "Dobrý den přeji",
+		"hateHello": "Nuže?",
+
+		"tradeRequest": "Pozor platí se  i za naší nabídku taže si k tomu ještě připočti tohle támhledsto a toto",
+
+		"outerColor": [204, 0, 102],
+		"innerColor": [255,255,0],
+		"uniqueName": "Etiketa",
+		"uniques": ["[-5]% Culture cost of natural border growth [in capital]","[+10]% Production when constructing [Culture] buildings [in all cities]","[+40]% resources gifted by City-States","[+1 Culture] from every specialist [in capital]","[+2 Gold] from all [Culture] buildings","[+10]% Great Person generation [in capital]",]
+		"cities": ["Telek","Telecká vesnička","Tržnice","Galin","Víska","Polední osada","Jitřní město","Stužka","Jiřinice"]
+	},
+
+]

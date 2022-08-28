@@ -1,0 +1,46 @@
+[
+{
+		"name": "Horska straz",
+                "uniqueTo": "Uhlohadi knizectvi",
+		"unitType": "Scout",
+                "replaces":"Scout",
+		"movement": 2,
+		"strength": 6,
+		"cost": 25,
+		"obsoleteTech": "Scientific Theory",
+		"uniques": ["May upgrade to [Archer] through ruins-like effects","[+1] Sight","Never appears as a Barbarian unit","Can see over obstacles","May withdraw before melee ([85]%)<when fighting in [Hill] tiles>","[+25]% Strength <when defending> <when fighting in [Hill] tiles>"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit"
+	},{
+		"name": "Duelista",
+		"unitType": "Sword",
+		"uniqueTo": "Telek",
+		"replaces": "Swordsman",
+		"movement": 2,
+		"strength": 20,
+		"cost": 80,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"uniques": ["[+50]% Strength <vs [Sword] units>","[-30]% Strength <when adjacent to a [Melee] unit>"],
+               "promotions": ["Shock I"],
+		"hurryCostModifier": 22,
+		"attackSound": "metalhit"
+	},{
+		"name": "zapalna kuse",
+                "uniqueTo": "Uhlohadi knizectvi",
+		"unitType": "Archery",
+                "replaces": "Crossbowman",
+		"movement": 2,
+		"strength": 14,
+		"rangedStrength": 19,
+		"cost": 122,
+		"requiredTech": "Machinery",
+		"upgradesTo": "Gatling Gun",
+                "uniques": ["[+150]% Strength <vs [Siege] units>"]
+                 "promotions": ["Cover I"],
+		"obsoleteTech": "Industrialization",
+		"attackSound": "arrow"
+	},
+]
